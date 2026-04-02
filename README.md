@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasserKhiat22&style=for-the-badge&color=lightgrey" />
+  <img src="https://komarev.com/ghpvc/?username=YasserKhiat&style=for-the-badge&color=lightgrey" />
 </p>
 
 <p align="center">
@@ -80,12 +80,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YasserKhiat22&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasserKhiat22&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YasserKhiat&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasserKhiat&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YasserKhiat22&theme=dark&hide_border=true&background=000000" />
+  <img src="https://streak-stats.demolab.com?user=YasserKhiat&theme=dark&hide_border=true&background=000000" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YasserKhiat22/YasserKhiat22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/YasserKhiat/YasserKhiat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -113,7 +113,7 @@
 
 ## Useful Links
 
-- [My GitHub Projects](https://github.com/YasserKhiat22)
+- [My GitHub Projects](https://github.com/YasserKhiat)
 - [My LinkedIn Profile](https://www.linkedin.com/in/yasser-khiat-5042742b4/)
 
 ---
